@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_view.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_poster.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\fragment_poster.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Rentastic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

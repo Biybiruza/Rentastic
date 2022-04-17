@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163880440747",
+    "project_id": "rentastic-ae4ab",
+    "storage_bucket": "rentastic-ae4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163880440747:android:c5944c1860236994e0f8ee",
+        "android_client_info": {
+          "package_name": "com.example.rentastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163880440747-qj3qng9kkafmb48s1p2vesopn0d7sfo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIe-qj75IpXJJ40WQ0iVshLVJ-rPBQ1rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163880440747-qj3qng9kkafmb48s1p2vesopn0d7sfo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
